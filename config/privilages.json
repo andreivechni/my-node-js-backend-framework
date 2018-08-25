@@ -1,0 +1,27 @@
+{
+
+  "admin": {
+    "User": {
+      "insert": null,
+      "select*": null,
+      "select": null,
+      "update": null,
+      "delete": null
+    }
+  },
+
+  "user": {
+    "User": {
+      "insert": null,
+      "select*": {
+        "id": "id"
+      },
+      "update": {
+        "id": "id"
+      },
+      "delete": {
+        "id": "id"
+      }
+    }
+  }
+}

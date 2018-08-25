@@ -1,0 +1,1 @@
+global.TEST_MODE = true;

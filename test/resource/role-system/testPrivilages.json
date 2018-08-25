@@ -1,0 +1,27 @@
+{
+    "testRole1": {
+        "testModel1": {
+            "testMethod1": null,
+            "testMethod2": null
+        }
+    },
+
+    "testRole2": {
+        "testModel1": {
+            "testMethod1": null,
+            "testMethod2": {
+                "where": {
+                    "lim1": "limVal1",
+                    "lim2": "limVal2"
+                }
+            }
+        },
+        "testModel2": {
+            "testMethod3": {
+                "where": {
+                    "lim1": "limVal1"
+                }
+            }
+        }
+    }
+}
